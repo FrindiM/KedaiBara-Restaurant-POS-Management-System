@@ -1,0 +1,1 @@
+<div class="empty-state"><div class="empty-icon">!</div><h2>Akses ditolak</h2><p>Role Anda tidak memiliki izin membuka modul ini.</p><a class="btn primary" href="index.php?page=dashboard">Kembali ke Dashboard</a></div>

@@ -1,0 +1,1 @@
+</section></main></div><div id="toastRoot"></div><div class="modal-backdrop" id="modalBackdrop"><div class="modal" id="modalBox"></div></div><script>window.KB={csrf:document.querySelector('meta[name="csrf-token"]').content,page:<?=json_encode($page)?>};</script><script src="assets/js/app.js"></script></body></html>

@@ -1,0 +1,4 @@
+<?php
+require dirname(__DIR__).'/bootstrap.php';
+use App\Core\Csrf;use App\Core\Response;use App\Services\RestaurantService;
+$action=$_GET['action']??$_POST['action']??'menu';$input=array_merge($_GET,$_POST);if(str_contains($_SERVER['CONTENT_TYPE']??'','application/json')){$j=json_decode(file_get_contents('php://input'),true);if(is_array($j))$input=array_merge($input,$j);}try{$svc=new RestaurantService();if($action==='menu')Response::ok($svc->publicMenu((string)($input['token']??'')));if($action==='create'){if(!Csrf::validate($input['_csrf']??($_SERVER['HTTP_X_CSRF_TOKEN']??null)))Response::error('Sesi halaman tidak valid. Muat ulang.',419);Response::ok($svc->createPublicOrder($input),'Pesanan berhasil dikirim.');}Response::error('Endpoint tidak ditemukan.',404);}catch(RuntimeException $e){Response::error($e->getMessage(),422);}catch(Throwable $e){error_log('[KedaiBara Public] '.$e->getMessage());Response::error('Terjadi kesalahan server.',500);}
