@@ -1,0 +1,168 @@
+# Proprietary Software License
+
+## Kedai Bara Pro — Restaurant POS & Operations Management System
+
+**Copyright © 2026 Frindi Mangimbulude. All Rights Reserved.**
+
+This software, including but not limited to its source code, object code, database structure, application architecture, user interface, designs, documentation, graphics, business logic, APIs, scripts, configuration files, and related materials (collectively, the **"Software"**), is proprietary and confidential.
+
+The Software is protected by applicable copyright, intellectual property, and other laws.
+
+## 1. Ownership
+
+All rights, title, and interest in and to the Software remain exclusively owned by **Frindi Mangimbulude**.
+
+The publication or availability of this source code on GitHub or any other platform does **not** make the Software open source and does **not** grant any ownership, license, or usage rights.
+
+All rights not expressly granted in writing are reserved.
+
+## 2. Restrictions
+
+Without prior written permission from **Frindi Mangimbulude**, you may not, in whole or in part:
+
+* Copy or reproduce the Software.
+* Modify, adapt, translate, or create derivative works.
+* Distribute, publish, mirror, upload, or redistribute the Software.
+* Sell, rent, lease, sublicense, or commercially exploit the Software.
+* Use the Software to provide services to third parties.
+* Deploy the Software for commercial or production use.
+* Incorporate the Software into another application, platform, SaaS product, template, or service.
+* Remove, replace, obscure, or modify copyright, license, authorship, or ownership notices.
+* Claim the Software or any portion of it as your own work.
+* Resell or redistribute modified versions of the Software.
+* Share the source code, installation package, credentials, or licensed copy with unauthorized parties.
+* Reverse engineer, decompile, disassemble, or reconstruct protected portions of the Software except where expressly permitted by applicable law.
+
+## 3. Source Code Availability
+
+The availability of the source code in a public or private repository does not constitute permission to use the Software.
+
+Viewing, cloning, downloading, forking, or otherwise obtaining access to this repository does not grant any license or intellectual property rights.
+
+Source code may only be used for purposes explicitly authorized in writing by **Frindi Mangimbulude**.
+
+## 4. Commercial Licensing
+
+A separate commercial license may be granted by **Frindi Mangimbulude** to an individual, customer, company, or organization.
+
+Commercial licenses may be limited by:
+
+* Customer or organization.
+* Domain.
+* Server or installation.
+* Number of outlets or branches.
+* Subscription period.
+* Number of users.
+* Specific modules or features.
+* Other conditions stated in the applicable agreement.
+
+Payment for access to or use of the Software does not transfer ownership of the Software or its source code.
+
+## 5. Software Rental and Subscription
+
+The Software may be provided under a rental, subscription, or Software-as-a-Service arrangement.
+
+Unless expressly stated otherwise in a separate written agreement:
+
+* Customers receive only a limited right to use the Software.
+* Customers do not acquire ownership of the Software.
+* Customers do not acquire ownership of the source code.
+* Customers may not copy the Software for use at another business, domain, server, or location.
+* Customers may not resell, sublicense, or redistribute the Software.
+* Access may be limited to the agreed rental or subscription period.
+
+## 6. Custom Development
+
+Payments for customization, implementation, configuration, feature development, maintenance, hosting, or technical support do not automatically transfer intellectual property ownership.
+
+Unless expressly agreed otherwise in writing, **Frindi Mangimbulude** retains ownership of:
+
+* The core application.
+* Reusable source code.
+* Application architecture.
+* Database architecture.
+* Internal APIs.
+* General-purpose modules.
+* UI components.
+* Libraries.
+* Business logic.
+* Improvements to the core Software.
+* Future versions derived from the core Software.
+
+Customer-specific business data remains the property of the respective customer, subject to the applicable agreement.
+
+## 7. No Redistribution
+
+A licensed customer or user may not provide, transfer, share, publish, resell, sublicense, or distribute the Software or its source code to:
+
+* Another person.
+* Another business.
+* Another branch not covered by the license.
+* Another developer.
+* Another vendor.
+* Any unauthorized third party.
+
+A license granted to one customer does not automatically extend to any other organization or party.
+
+## 8. Unauthorized Use
+
+Unauthorized copying, modification, redistribution, publication, resale, sublicensing, deployment, or commercial exploitation of the Software constitutes a violation of this license.
+
+**Frindi Mangimbulude** reserves the right to pursue any remedies available under applicable law.
+
+## 9. Third-Party Components
+
+The Software may use third-party libraries, frameworks, fonts, icons, APIs, packages, or other components.
+
+Such third-party components remain subject to their respective licenses.
+
+This proprietary license applies only to intellectual property owned by **Frindi Mangimbulude** and does not override applicable third-party licenses.
+
+## 10. Branding
+
+The names, logos, design elements, visual identities, product identities, and branding associated with the Software may not be copied, impersonated, reused, altered, or represented as belonging to another party without prior written authorization.
+
+## 11. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED **"AS IS"** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+UNLESS EXPRESSLY AGREED OTHERWISE IN WRITING, NO WARRANTIES ARE PROVIDED, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SECURITY, AVAILABILITY, ACCURACY, OR NON-INFRINGEMENT.
+
+## 12. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, **FRINDI MANGIMBULUDE** SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR BUSINESS DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+This includes, without limitation:
+
+* Loss of data.
+* Loss of revenue.
+* Loss of profit.
+* Business interruption.
+* System downtime.
+* Loss of business opportunities.
+
+## 13. Termination
+
+Any license or permission may be terminated in accordance with the applicable agreement if the licensee violates this license or any applicable commercial agreement.
+
+Upon termination, the licensee must cease unauthorized use of the Software and, where required, delete or return unauthorized copies.
+
+## 14. Written Permission
+
+Any exception to this license must be expressly granted in writing by **Frindi Mangimbulude**.
+
+Repository access, possession of source code, previous collaboration, technical access, or silence shall not be interpreted as authorization.
+
+## 15. Reservation of Rights
+
+All rights not expressly granted in writing are reserved by:
+
+**Frindi Mangimbulude**
+
+---
+
+**Copyright © 2026 Frindi Mangimbulude. All Rights Reserved.**
+
+**Kedai Bara Pro — Restaurant POS & Operations Management System**
+
+Unauthorized copying, modification, distribution, resale, sublicensing, commercial use, or redistribution of this Software is strictly prohibited without prior written permission from **Frindi Mangimbulude**.
